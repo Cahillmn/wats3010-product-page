@@ -8,10 +8,3 @@
     -ms-transform: scale(1.05);
     transform: scale(1.05);
 }
-ul.page-links {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: red;
-}
